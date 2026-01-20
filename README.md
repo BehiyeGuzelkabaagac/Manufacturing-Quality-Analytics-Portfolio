@@ -1,7 +1,7 @@
 # 🏭 Manufacturing & Quality Analytics Portfolio
 
 **Behiye König** | Materials Engineer → Data Analyst  
-📍 Nürnberg, Bavaria, Germany | 📧 behiyegk@gmail.com | [LinkedIn](https://www.linkedin.com/in/behiye-koenig)
+📍 Nürnberg, Bavaria, Germany | 📧 behiyegka@gmail.com | [LinkedIn](https://www.linkedin.com/in/behiye-koenig)
 
 ---
 
