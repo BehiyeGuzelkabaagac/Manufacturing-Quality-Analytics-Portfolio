@@ -153,19 +153,16 @@ Develop an automated machine learning system that can:
 
 ## 🔧 Technical Implementation
 
-### Top 10 Most Important Features
-1. **Square_Index (9.1%)** - Geometric pattern indicator
-2. **X_Minimum (7.4%)** - Horizontal position on plate
-3. **Length_of_Conveyer (6.3%)** - Production line exposure
-4. **Steel_Plate_Thickness (5.9%)** - Material property
-5. **Pixels_Areas (5.8%)** - Surface coverage
-6. **Y_Minimum (5.7%)** - Vertical position
-7. **Outside_Global_Index (5.7%)** - Edge zone indicator
-8. **X_Maximum (5.5%)** - Horizontal extent
-9. **Y_Perimeter (5.4%)** - Edge characteristics
-10. **Edges_Index (5.3%)** - Edge defect indicator
+### Most Important Features
+1. **LogOfAreas**
 
-**Key Insight:** Geometric features dominate predictions, suggesting defects have spatial patterns that can be learned.
+2. **Orientation_Index**
+
+3. **Length_of_Conveyer**
+
+4. **Square_Index**
+
+
 
 ### Tech Stack
 ```
